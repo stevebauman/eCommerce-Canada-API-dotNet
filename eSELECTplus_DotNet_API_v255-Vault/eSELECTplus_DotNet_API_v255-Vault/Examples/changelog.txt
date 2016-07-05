@@ -1,0 +1,2 @@
+eSELECTplus_DotNet_API_v255-Vault
+-Added ResCardVerification class and example
